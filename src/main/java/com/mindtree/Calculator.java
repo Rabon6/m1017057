@@ -1,5 +1,7 @@
 package com.mindtree;
-
+/*
+@Author M1017057
+*/
 public class Calculator {
 
 	public int sum(int a, int b) {
